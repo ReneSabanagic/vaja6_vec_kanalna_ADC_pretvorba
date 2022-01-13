@@ -14,3 +14,4 @@ j)	Koliko je privzeta vrednost parametra Number of Conversion? _1_ .
 k)	Čas vzorčenja Sampling Time izberite 92.5 cikla. Koliko je čas vzorčenja v mikro sekundah? ___26,125μs____. Enačba za izračun: tvz = (tvz_cik + 12) / ftakta_pretvorbe
 l)	V zavihku DMA Settings kliknite Add in v nastalem polju »select« izberite možnost ADC1. Dolžina podatka pretvorbe bo 1 Byte, zato ustrezno popravite izbirno polje Data Width: ___byte____ (tako za Peripheral in Memory). Increment Address omogočite le v registru Memory. V izbirnem polju za način delovanja Mode izberite Circular. Kliknite Ok. Sedaj tudi omogočite DMA Continuos Requests v oknu Parameter Setttings.
 e)	Kaj pomeni kratica DMA? _______direct memory access__________.
+Rene Šabanagić, Filip Stanojević
