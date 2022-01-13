@@ -1,0 +1,1 @@
+# vaja6_vec_kanalna_ADC_pretvorba
