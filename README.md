@@ -1,4 +1,5 @@
 Vaja 6_vec_kanalna_ADC_pretvorba
+
 a)	Zaženite STM32CubeIDE in ustvarite nov STM32 projekt (pod zavihkom information Center). V zavihku Board selector s pomočjo filtrov Vendor, Type in MCU/MPU Series izberite ustrezno razvojno ploščo (v našem primeru Nucleo-L476RG), kliknite Next, projekt poimenujte vaja6_vec_kanalna_ADC_pretvorba in kliknite Finish (na možnosti opcije za prenastavitev periferije izberite Yes, izbrana naj bo tudi opcija perspektive za STM32CubeMX).
 b)	Če ima Izbrani ADCx pretvornik oznako s trikotnikom, razrešite to omejitev (uporabljene pin-e postavite na Reset_State). 
 c)	Razširite razdelek ADC1 v levem oknu CubeMX okolja.
